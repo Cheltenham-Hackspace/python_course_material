@@ -2794,6 +2794,26 @@
               </AnswerPlaceholder>
             </key>
           </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use in keyword." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="6" />
+                    <option name="myLength" value="30" />
+                    <option name="myStart" value="6" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="22" />
+                <option name="line" value="6" />
+                <option name="possibleAnswer" value="'fish' in grocery_dict.keys()" />
+                <option name="start" value="6" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
           <entry value="Unchecked">
             <key>
               <AnswerPlaceholder>
@@ -3130,6 +3150,26 @@
                 <option name="line" value="9" />
                 <option name="possibleAnswer" value="animals[-1] = 'dinosaur'" />
                 <option name="start" value="0" />
+                <option name="taskText" />
+              </AnswerPlaceholder>
+            </key>
+          </entry>
+          <entry value="Solved">
+            <key>
+              <AnswerPlaceholder>
+                <option name="hint" value="Use in keyword." />
+                <option name="index" value="0" />
+                <option name="initialState">
+                  <MyInitialState>
+                    <option name="myLine" value="6" />
+                    <option name="myLength" value="30" />
+                    <option name="myStart" value="6" />
+                  </MyInitialState>
+                </option>
+                <option name="length" value="22" />
+                <option name="line" value="6" />
+                <option name="possibleAnswer" value="'fish' in grocery_dict.keys()" />
+                <option name="start" value="6" />
                 <option name="taskText" />
               </AnswerPlaceholder>
             </key>
