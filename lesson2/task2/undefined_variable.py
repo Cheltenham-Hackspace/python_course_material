@@ -1,2 +1,2 @@
 variable = 1
-print(other variable)
+print(not_existing_variable)

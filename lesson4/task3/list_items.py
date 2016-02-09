@@ -7,5 +7,7 @@ print(animals)
 animals[1:3] = []     # remove 2 items -- 'cat' and 'giraffe' from the list
 print(animals)
 
-clear list
+animals[:] = []
+# we can also use "animals=[]" (but this acutally creates a new list rather than
+# deleting items from existing list
 print(animals)
